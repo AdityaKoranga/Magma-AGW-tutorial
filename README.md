@@ -37,7 +37,7 @@ network:
 ```bash
 bash agw_install_ubuntu.sh 192.168.1.41/24 192.168.1.1
 ```
-`eno`: `192.168.1.41/24` & `gateway`: `192.168.1.1`
+`eno1`: `192.168.1.41/24` & `gateway`: `192.168.1.1`
 
 > Script will reboot the system.
 
